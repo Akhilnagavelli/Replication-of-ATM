@@ -5,11 +5,7 @@ public class Atm {
 	private double depositAmount;
 	private double withdrawAmount;
 	
-	//default constructor
-	public Atm()
-	{
-		
-	}
+	
 	
 	//getter setter
 	public double getBalance()
